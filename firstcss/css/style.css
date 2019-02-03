@@ -257,11 +257,11 @@ header nav > ul > li > a:hover {
 }
 
 .column:hover {
-    animation-play-state: paused;
+    animation-play-state: unset;
 
 }
 .column2:hover {
-    animation-play-state: paused;
+    animation-play-state: unset;
 
 }
 .column> img {
